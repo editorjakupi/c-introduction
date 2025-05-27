@@ -1,0 +1,4 @@
+// Byggkommandon och exekveringsfiler som ska ignoreras av byggsystemet
+*.obj // Objektfiler
+*.exe // Körbara filer
+*.pdb // Programdatabase (debugging information)
