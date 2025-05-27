@@ -2,64 +2,66 @@
 
 A comprehensive introduction to C programming course materials from NBI Handelsakademin, organized by daily lessons and exercises.
 
-## Course Structure
+## Course Structure & Content
 
-The course is organized into 6 days of learning, each focusing on different aspects of C programming:
+Kursen är uppdelad i 6 dagar, där varje dag fokuserar på ett specifikt område inom C-programmering:
 
-### Day 1: Introduction to C
+### Dag 1: Introduktion till C
 
-- Basic syntax and structure
-- Hello World program
-- Variables and data types
-- Basic input/output
+- Grundläggande syntax och struktur
+- Hello World-program
+- Variabler och datatyper
+- In- och utmatning
+- Enkla aritmetiska operationer
 
-### Day 2: Control Structures
+### Dag 2: Styrstrukturer
 
-- If statements
-- Loops (for, while)
-- Switch statements
-- Basic program flow
+- If-satser
+- Loopar (for, while)
+- Switch-satser
+- Programflöde
+- Grundläggande algoritmer
 
-### Day 3: Functions and Arrays
+### Dag 3: Funktioner och Arrayer
 
-- Function declaration and definition
-- Parameters and return values
-- Array basics
-- String manipulation
+- Funktioners deklaration och definition
+- Parametrar och returvärden
+- Arrayer och array-manipulation
+- Stränghantering
+- Modulär programmering
 
-### Day 4: Pointers and Memory
+### Dag 4: Pekare och Minne
 
-- Pointer basics
-- Memory management
-- Dynamic allocation
-- Pointer arithmetic
+- Pekargrunder
+- Minneshantering
+- Dynamisk allokering
+- Pekararitmetik
 
-### Day 5: Structures and Files
+### Dag 5: Strukturer och Filer
 
-- Structure definition
-- File I/O operations
-- Working with files
-- Data persistence
+- Strukturdefinition
+- Filhantering (I/O)
+- Data-persistens
+- Felhantering
 
-### Day 6: Advanced Topics
+### Dag 6: Avancerade ämnen & Projekt
 
-- Advanced data structures
-- Error handling
-- Best practices
-- Project work
+- Avancerade datastrukturer
+- Bästa praxis
+- Projektarbete
 
 ## Project Structure
 
 ```
 C-introduction/
-├── Dag 1/              # Day 1 materials
-│   ├── src/           # Source code
-│   └── makefile       # Build configuration
-├── Dag 2/              # Day 2 materials
-├── Dag 3/              # Day 3 materials
-├── Dag 4/              # Day 4 materials
-├── Dag 5/              # Day 5 materials
-└── Dag 6/              # Day 6 materials
+├── Dag 1/              # Dag 1 material
+│   ├── src/           # Källkod
+│   └── makefile       # Byggkonfiguration
+├── Dag 2/              # Dag 2 material
+├── Dag 3/              # Dag 3 material
+├── Dag 4/              # Dag 4 material
+├── Dag 5/              # Dag 5 material
+└── Dag 6/              # Dag 6 material
 ```
 
 ## Getting Started
@@ -102,50 +104,6 @@ C-introduction/
    ```bash
    ./a.out
    ```
-
-## Course Content
-
-### Day 1: Introduction to C
-
-- Basic program structure
-- Variables and data types
-- Input/output operations
-- Basic arithmetic
-
-### Day 2: Control Structures
-
-- Conditional statements
-- Loops and iterations
-- Program flow control
-- Basic algorithms
-
-### Day 3: Functions and Arrays
-
-- Function definition and usage
-- Array manipulation
-- String handling
-- Modular programming
-
-### Day 4: Pointers and Memory
-
-- Pointer concepts
-- Memory management
-- Dynamic allocation
-- Pointer operations
-
-### Day 5: Structures and Files
-
-- Structure definition
-- File operations
-- Data persistence
-- Error handling
-
-### Day 6: Advanced Topics
-
-- Advanced data structures
-- Error handling
-- Best practices
-- Project implementation
 
 ## Development
 
